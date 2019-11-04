@@ -1,0 +1,4 @@
+C:\Users\WZ442MH\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\Repo Click and Flyers.csprojAssemblyReference.cache
+C:\Users\WZ442MH\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\Repo Click and Flyers.csproj.CoreCompileInputs.cache
+C:\Users\WZ442MH\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\Repo Click and Flyers.AssemblyInfoInputs.cache
+C:\Users\WZ442MH\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\Repo Click and Flyers.AssemblyInfo.cs
